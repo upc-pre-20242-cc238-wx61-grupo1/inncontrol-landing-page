@@ -39,6 +39,10 @@ a {
     overflow-x: hidden;
 }
 
+.navbar-brand img{
+    width: 200px;
+}
+
 .navbar {
     position: relative;
     z-index: 999;
@@ -72,7 +76,6 @@ a {
 #banner .hero {
     position: relative;
     z-index: 10;
-    min-height: 100vh;
     display: flex;
 }
 
